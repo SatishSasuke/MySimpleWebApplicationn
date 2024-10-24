@@ -52,7 +52,7 @@ Follow these steps to install and run the project locally.
    git clone https://github.com/SatishSasuke/MySimpleWebApplicationn
 
 
-##Contact 
+## Contact 
 
 - **Name** : Satish Prabhagar
 - **Email**: satishprabhagar0002@gmail.com
