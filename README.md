@@ -50,3 +50,9 @@ Follow these steps to install and run the project locally.
 
    ```bash
    git clone https://github.com/SatishSasuke/MySimpleWebApplicationn
+
+
+##Contact 
+
+- **Name** : Satish Prabhagar
+- **Email**: satishprabhagar0002@gmail.com
